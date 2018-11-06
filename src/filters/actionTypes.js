@@ -1,0 +1,4 @@
+export const RETRIEVE_GENRES = 'RETRIEVE_GENRES';
+export const REMOVE_GENRE = 'REMOVE_GENRE';
+export const ADD_GENRE = 'ADD_GENRE';
+export const RATING_CHANGE = 'RATING_CHANGE';
