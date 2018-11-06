@@ -11,7 +11,7 @@ Desired Output:
 - Movies should also be filterable by their rating (vote_average property). i.e If rating was set to 5, you would expect to see all movies with a rating of 5 or higher.
 - The input API's should only be called once.
 
-------------*****------------*****------------*****------------*****------------*****------------
+### ------------*****------------*****------------*****------------*****------------*****------------
 
 ## Technical Choices
 - Frontend framework: **React**
